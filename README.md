@@ -1,5 +1,6 @@
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5474915.png" width="603" height="161" alt="Perfil" /></a>
-<br /><a href="https://es.cooltext.com"><a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
+
+<p align="center"><a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5474915.png" width="603" height="161" alt="Perfil" /></a>
+<br /><a href="https://es.cooltext.com"><a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a></p>
 
 # Programas
 ## :black_square_button: Conclusión 
