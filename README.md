@@ -1,3 +1,6 @@
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5465873.png" width="255" height="110" alt="Perfil" /></a>
+<br /><a href="https://es.cooltext.com"><a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
+
 # Programas
 ## :black_square_button: Conclusión 
 
